@@ -1,0 +1,5 @@
+PASS: 2058 assertions (Part 1 login + Part 2 messaging).
+PASS: console registration, failed-login retry, send/store/discard, JSON parsing, input validation, message limit, zero-message limit and EOF exit.
+PASS: application executed without --console or other flags.
+PASS: jdeps reports only java.base dependency; no Swing/AWT or desktop dependency.
+NOT RUN: Maven/JUnit dependencies or GitHub Actions execution.

@@ -1,0 +1,82 @@
+=== User Registration ===
+Enter your first name
+Enter your surname
+Username: underscore, maximum five characters
+Username is not correctly formatted.
+Username: underscore, maximum five characters
+Password: at least 8 characters, capital letter, number and special character
+Password is not correctly formatted.
+Password: at least 8 characters, capital letter, number and special character
+South African cellphone number, e.g. +27838968976
+Invalid number. Use +27 followed by nine digits.
+South African cellphone number, e.g. +27838968976
+The user has been registered successfully.
+Login username
+Login password
+Username or password incorrect, please try again.
+Login username
+Login password
+Welcome Hakim Matsimela, it is great to see you again.
+Welcome to QuickChat.
+How many messages do you wish to enter?
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Enter a whole number from 1 to 3.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Coming Soon.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Recipient number (+27 followed by nine digits)
+Cell phone number is incorrectly formatted or does not contain an international code. Please correct the number and try again.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message exceeds 250 characters by 1; please reduce the size.
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 5215299161
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully sent.
+Message ID: 5215299161
+Message Hash: 52:0:HITONIGHT
+Recipient: +27718693002
+Message: Hi Mike, can you join us for dinner tonight?
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 9385436757
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully stored.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 3927152004
+1) Send Message
+2) Disregard Message
+3) Store Message
+Press 0 to delete the message.
+0) Delete message
+1) Go back
+1) Send Message
+2) Disregard Message
+3) Store Message
+Press 0 to delete the message.
+0) Delete message
+1) Go back
+Message discarded.
+Total messages sent: 1
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+You have reached your message limit.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+Total messages sent: 1
