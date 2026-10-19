@@ -1,0 +1,5 @@
+Extract into a NEW folder. Run Run-QuickChat.bat.
+NetBeans: open pom.xml, Clean and Build, then Run Project.
+Original Part 1 registration/login code is in HakimMokadiMatsimelaPartOne.java.
+After login, QuickChat.start continues into the Part 2 messaging menu using the same Scanner.
+Java 11+ required. No GUI.

@@ -1,0 +1,6 @@
+Validation: OpenJDK 17, Java 11 target.
+PASS: 2058 standalone assertions.
+PASS: rebuilt executable JAR and both entry points enter Part 2 after login.
+PASS: invalid login, menu, recipient and message-length retries.
+PASS: send, discard, store, JSON parsing, message limit, sent total and EOF exit.
+Maven/JUnit and hosted GitHub Actions not executed in this environment.
