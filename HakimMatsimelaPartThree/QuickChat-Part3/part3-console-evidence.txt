@@ -1,0 +1,556 @@
+===User Registration===
+Enter your first name 
+Enter your surname
+Please enter your username: Username successfully captured.
+Please enter your password: Password successfully captured.
+Please enter your South African cell phone number (e.g. +27838968976): Cell phone number successfully added.
+The user has been registered successfully.
+
+=== User Login ===
+Please enter your username: Please enter your password: Username or password incorrect, please try again.
+Please enter your username: Please enter your password: Welcome Hakim Matsimela, it is great to see you again.
+Welcome to QuickChat.
+How many messages do you wish to enter?
+No stored message files found.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 8821055357
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully sent.
+Message ID: 8821055357
+Message Hash: 88:0:DIDCAKE
+Recipient: +27834557896
+Message: Did you get the cake?
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 2225761807
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully stored.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 6014392276
+1) Send Message
+2) Disregard Message
+3) Store Message
+Press 0 to delete the message.
+0) Delete message
+1) Go back
+Message discarded.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 8240241061
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully stored.
+Total messages sent: 1
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Sender: +27838968976
+Recipient: +27838884567
+
+Sender: +27838968976
+Recipient: +27838884567
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter message ID
+Message not found.
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter recipient number
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 8821055357
+Message Hash: 88:0:DIDCAKE
+Recipient: +27834557896
+Message: Did you get the cake?
+Sender: +27838968976
+Status: SENT
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter recipient number
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Loaded 0 stored messages.
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Total messages sent: 1
+
+--- RESTART ---
+===User Registration===
+Enter your first name 
+Enter your surname
+Please enter your username: Username successfully captured.
+Please enter your password: Password successfully captured.
+Please enter your South African cell phone number (e.g. +27838968976): Cell phone number successfully added.
+The user has been registered successfully.
+
+=== User Login ===
+Please enter your username: Please enter your password: Username or password incorrect, please try again.
+Please enter your username: Please enter your password: Welcome Hakim Matsimela, it is great to see you again.
+Welcome to QuickChat.
+How many messages do you wish to enter?
+Loaded 2 stored messages.
+
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Sender: +27838968976
+Recipient: +27838884567
+
+Sender: +27838968976
+Recipient: +27838884567
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter message ID
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter recipient number
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 2225761807
+Message Hash: 22:1:WHERETIME
+Recipient: +27838884567
+Message: Where are you? You are late! I have asked you to be on time.
+Sender: +27838968976
+Status: STORED
+
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter message hash
+Message not found.
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter message hash
+Message: "Where are you? You are late! I have asked you to be on time." successfully deleted.
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Enter message ID
+Message not found.
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Loaded 0 stored messages.
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Total messages sent: 0
+
+--- AFTER DELETION ---
+===User Registration===
+Enter your first name 
+Enter your surname
+Please enter your username: Username successfully captured.
+Please enter your password: Password successfully captured.
+Please enter your South African cell phone number (e.g. +27838968976): Cell phone number successfully added.
+The user has been registered successfully.
+
+=== User Login ===
+Please enter your username: Please enter your password: Username or password incorrect, please try again.
+Please enter your username: Please enter your password: Welcome Hakim Matsimela, it is great to see you again.
+Welcome to QuickChat.
+How many messages do you wish to enter?
+Loaded 1 stored messages.
+
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+Message ID: 8240241061
+Message Hash: 82:3:ITTIME
+Recipient: +27838884567
+Message: It is dinner time!
+Sender: +27838968976
+Status: STORED
+
+
+Stored Messages
+1) Display stored senders and recipients
+2) Longest stored message
+3) Search by message ID
+4) Stored messages for recipient
+5) Delete by hash
+6) Full stored message report
+7) Sent message report
+8) Sent or stored messages for recipient
+9) Longest sent or stored message
+10) Reload stored JSON
+0) Back
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Total messages sent: 0

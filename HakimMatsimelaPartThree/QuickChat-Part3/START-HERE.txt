@@ -1,0 +1,13 @@
+QUICKCHAT PARTS 1 + 2 + 3
+Extract into a NEW folder, then double-click Run-QuickChat.bat.
+Java 11+ required. Console only.
+
+NetBeans: Open this folder using pom.xml -> Clean and Build -> Run Project.
+Your original Part 1 code is in HakimMokadiMatsimelaPartOne.java.
+After successful login it continues into QuickChat with the same Scanner.
+Set the number of messages, then choose 1 to send/store or 4 for Part 3.
+Choose 0 messages if you only want to inspect previously stored JSON.
+
+Part 3: sender/recipient display, longest, ID search, recipient search,
+hash deletion, full reports and JSON reload. See README.md for details.
+Copy your previous stored_messages folder here to load Part 2 files.

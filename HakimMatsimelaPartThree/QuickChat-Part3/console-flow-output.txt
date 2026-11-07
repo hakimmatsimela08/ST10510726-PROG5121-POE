@@ -1,0 +1,79 @@
+===User Registration===
+Enter your first name 
+Enter your surname
+Please enter your username: Username successfully captured.
+Please enter your password: Password successfully captured.
+Please enter your South African cell phone number (e.g. +27838968976): Cell phone number successfully added.
+The user has been registered successfully.
+
+=== User Login ===
+Please enter your username: Please enter your password: Username or password incorrect, please try again.
+Please enter your username: Please enter your password: Welcome Hakim Matsimela, it is great to see you again.
+Welcome to QuickChat.
+How many messages do you wish to enter?
+No stored message files found.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Enter a whole number from 1 to 4.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Coming Soon.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Recipient number (+27 followed by nine digits)
+Cell phone number is incorrectly formatted or does not contain an international code. Please correct the number and try again.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message exceeds 250 characters by 1; please reduce the size.
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 5663910776
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully sent.
+Message ID: 5663910776
+Message Hash: 56:0:HITONIGHT
+Recipient: +27718693002
+Message: Hi Mike, can you join us for dinner tonight?
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 0871413541
+1) Send Message
+2) Disregard Message
+3) Store Message
+Press 0 to delete the message.
+0) Delete message
+1) Go back
+Message discarded.
+Recipient number (+27 followed by nine digits)
+Enter message (1-250 characters)
+Message ready to send.
+Message ID generated: 1943269008
+1) Send Message
+2) Disregard Message
+3) Store Message
+Message successfully stored.
+Total messages sent: 1
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+You have reached your message limit.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Coming Soon.
+1) Send Messages
+2) Show recently sent messages
+3) Quit
+4) Stored Messages
+Total messages sent: 1

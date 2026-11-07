@@ -1,0 +1,9 @@
+Validation environment: OpenJDK 17, compiled with --release 11.
+PASS: 2058 Part 1/Part 2 assertions.
+PASS: 46 Part 3 assertions covering fixtures, real Java arrays, longest message,
+ID/recipient search, sent/stored reports, JSON escaping/backward compatibility,
+invalid-file handling, duplicate loads, hash collision and persistent deletion.
+PASS: both IDE launch classes and executable JAR continue from Part 1 to Part 2.
+PASS: Part 3 console submenu, local recipient conversion, restart loading,
+search, reporting, deletion and reload across three application launches.
+Maven/JUnit and hosted GitHub Actions not run here; configuration included.
